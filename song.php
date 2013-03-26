@@ -1,0 +1,1 @@
+<?phprequire_once('conf/song.conf.php');class Song {    public function getSongUrl() {        $arrSong = SongConfig::$songMap;         $max = count($arrSong);        $randomKey = rand(0,$max);        $songName = $arrSong[$randomKey];        return "http://51checkin.sinaapp.com/data/".$songName;    }}

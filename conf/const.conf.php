@@ -1,0 +1,1 @@
+<?phpclass ConstConfig {    CONST TOKEN = 'caojiandong51zaoqi9673402158';    CONST MYWXID = 'gh_6643b5e68668';}
