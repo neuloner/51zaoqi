@@ -1,0 +1,1 @@
+<?phpclass SongConfig {    public static $songMap;}SongConfig::$songMap = array(    'yxlm.mp3',    'hewasnot.mp3',    'wodenvyoushijiqiren.mp3',    'wunai.mp3',    'xinzaizhiyinfangxiang.mp3',    'angel.mp3',    'zuizhongxinyang.mp3',    'heibianfuzhongdui.mp3',    'putyourrecordson.mp3',    'shaonian.mp3',);
